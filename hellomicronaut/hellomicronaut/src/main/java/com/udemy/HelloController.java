@@ -10,5 +10,7 @@ public class HelloController {
     public String getGreeting(){
 
         return "Hello World change!";
+        System.out.println("Commiting first change");
+
     }
 }
